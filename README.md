@@ -11,6 +11,11 @@ Ocyber是一款面向个人开发者的轻量级安全信息收集工具，采�
 - **模块化设计**: 聚焦于少量高质量功能模块，确保稳定性和易用性
 - **轻量级部署**: 单一可执行文件，无需复杂配置和依赖管理
 - **易于扩展**: 采用Go后端与React前端组合，方便个人开发者定制功能
+## 画面演示
+![image](https://github.com/user-attachments/assets/2d96fd07-b66a-484c-8a59-b200cf5f5803)
+![image](https://github.com/user-attachments/assets/95668143-9700-4c2d-ab8c-a77be8aa0b54)
+![image](https://github.com/user-attachments/assets/83f88a93-8254-44fd-8b88-f5542a24c07f)
+![image](https://github.com/user-attachments/assets/c9dfb470-08bf-405d-96a1-69e900c1f70f)
 
 ## 使用场景
 
